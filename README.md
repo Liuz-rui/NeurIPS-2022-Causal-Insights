@@ -4,11 +4,11 @@ This code is our solution for task2.
 First of all, the file storage method is the same as that provided by the competition sponsor.
 
 The data of task1 is stored in 'Task_1_data_private/Task_1_data_private_csv/' and the data of task2 is stored in 'Task_2_data_private/Task_2_data_private/'.\\
-NeurIPS2022/ \\
+NeurIPS2022\/ \\
 \quad -Task_1_data_private \\
 \quad\quad -Task_1_data_private_csv
-\quad\quad\quad -dataset_0/train.csv
-\quad\quad\quad -dataset_1/train.csv
-\quad\quad\quad -dataset_2/train.csv
-\quad\quad\quad -dataset_3/train.csv
-\quad\quad\quad -dataset_4/train.csv
+\quad\quad\quad -dataset_0\/train.csv
+\quad\quad\quad -dataset_1\/train.csv
+\quad\quad\quad -dataset_2\/train.csv
+\quad\quad\quad -dataset_3\/train.csv
+\quad\quad\quad -dataset_4\/train.csv
